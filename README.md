@@ -69,7 +69,7 @@ I am proficient in leveraging various tools to enhance my development workflow
 
 ---
 ### 💖 My Source of Motivation
-I want to give a special shoutout to my handsome boyfriend, **KACAMICOU**. who believes in me and what am capable of
+I want to give a special shoutout to my handsome boyfriend, **KACAMICOU**. who believes in me and what am capable of.
 
 ---
 
