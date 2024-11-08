@@ -8,7 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibtihel-ayari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-I’m a passionate **software engineering student** from **Tunis, Tunisia**, focused on building scalable and efficient applications. My expertise spans across **front-end**, **back-end**, and **hybrid mobile development**, and I'm currently diving deeper into **DevOps** practices. I’m particularly interested in cloud infrastructure, automation, and applying best practices to deliver robust, user-centric software solutions.
+I’m a driven **Software Engineering student** from **Tunis, Tunisia**, with a strong focus on developing scalable and efficient applications. My skill set covers **front-end**, **back-end**, and **hybrid mobile development**. At the moment, I’m delving deeper into **DevOps**, exploring areas like **cloud infrastructure**, **automation**, and leveraging best practices to create reliable, user-focused software solutions.
+
 
 ---
 
