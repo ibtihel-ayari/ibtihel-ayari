@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ibtihel Ayari!
+# 👋 Hello, I'm **Ibtihel Ayari**!
 
 <div style="text-align: center;">
     <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
@@ -8,18 +8,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibtihel-ayari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm a dedicated software engineering student based in **Tunis, Tunisia**. With a passion for technology and a commitment to lifelong learning, I specialize in creating efficient and scalable applications across multiple domains, including **front-end**, **back-end**, and **hybrid mobile development**. Currently, I’m diving deeper into **DevOps** practices, focusing on cloud infrastructure, automation, and best coding practices to deliver robust software solutions that meet user needs.
+I’m a passionate **software engineering student** from **Tunis, Tunisia**, focused on building scalable and efficient applications. My expertise spans across **front-end**, **back-end**, and **hybrid mobile development**, and I'm currently diving deeper into **DevOps** practices. I’m particularly interested in cloud infrastructure, automation, and applying best practices to deliver robust, user-centric software solutions.
 
 ---
 
 ### 📫 Get in Touch:
 - **Email:** [ayari154ibtihel@gmail.com](mailto:ayari154ibtihel@gmail.com)
-- **LinkedIn:** [Ibtihel Ayari ](https://www.linkedin.com/in/ibtihel-ayari-6848a5194/)
+- **LinkedIn:** [Ibtihel Ayari](https://www.linkedin.com/in/ibtihel-ayari-6848a5194/)
+
 ---
 
 ### 📈 GitHub Stats
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-ayari&show_icons=true&theme=dark" alt="Kacem's GitHub Stats" style="width: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-ayari&show_icons=true&theme=dark" alt="Ibtihel's GitHub Stats" style="width: 300px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtihel-ayari&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtihel-ayari&theme=dark" alt="Current Streak" style="width: 300px;" />
 </div>
@@ -33,45 +34,41 @@ I'm a dedicated software engineering student based in **Tunis, Tunisia**. With a
 - **Frameworks/Libraries:** React, Angular
 - **Testing Libraries:** Jest, Cypress, Jasmine
 
-I thrive on creating user-friendly interfaces that provide seamless user experiences. My experience with modern front-end technologies enables me to build responsive applications that are both visually appealing and functional.
+I specialize in building **responsive, user-friendly** interfaces that deliver seamless experiences. My front-end expertise helps me craft visually appealing and highly functional applications.
 
 #### ⚙️ Back-End Development:
 - **Languages:** Java, Python, PHP, C#
 - **Frameworks:** Spring Boot, Laravel, Symfony, Django, Express.js
 - **Testing Libraries:** Mocha, Chai, JUnit, PyTest
 
-I enjoy architecting back-end solutions that are robust and scalable, ensuring efficient data handling and smooth interactions with the front end.
+I am passionate about creating **robust back-end solutions** that efficiently handle data and interact seamlessly with front-end interfaces.
 
 #### 📱 Hybrid Mobile Development:
 - **Technologies:** Native Java (Android), Flutter, Ionic
 
-I'm passionate about creating mobile applications that provide a rich experience on both iOS and Android platforms. I leverage cross-platform frameworks like Flutter and Ionic to reach a wider audience.
+I’m excited about developing **cross-platform mobile apps** that run smoothly on both **iOS** and **Android**. I use frameworks like **Flutter** and **Ionic** to create apps with a rich user experience.
 
 #### 🗄️ Database Management:
 - **Relational Databases:** MySQL, PostgreSQL
 - **Non-Relational Databases:** MongoDB, Firestore
 
-Understanding the importance of data, I am skilled in managing databases to ensure efficient data retrieval and storage for applications.
+I prioritize **efficient data storage and retrieval**, ensuring applications perform optimally with well-managed databases.
 
-#### 📦 Tools and Technologies:
+#### 📦 Tools & Technologies:
 - **Cloud Services:** AWS, Firebase
 - **API Documentation:** Swagger
 - **Development Tools:** GitLab, RapidAPI, Postman
 
-I am proficient in leveraging various tools to enhance my development workflow
+I leverage a variety of tools to **optimize development workflows** and enhance productivity throughout the software development lifecycle.
 
 ---
 
 ### 🚀 Currently Learning:
-- Exploring **Advanced DevOps** practices and **Kubernetes** for container orchestration to improve application deployment and management.
-- Building **CI/CD pipelines** with **GitLab** to streamline automated deployment processes and enhance development efficiency.
-- Diving deeper into **microservices architecture** with Spring boot and RabbitMQ
+- Diving into **Advanced DevOps** and **Kubernetes** for better container orchestration.
+- Building **CI/CD pipelines** with **GitLab** to automate deployment processes and boost efficiency.
+- Exploring **microservices architecture** with **Spring Boot** and **RabbitMQ**.
 
 ---
+
 ### 💖 My Source of Motivation
-I want to give a special shoutout to my handsome boyfriend, **KACAMICOU**. who believes in me and what am capable of.
-
----
-
-
-
+A huge shoutout to my amazing boyfriend, **KACAMICOU**, who constantly believes in me and what I’m capable of. Your support means everything! ❤️
