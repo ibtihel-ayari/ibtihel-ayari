@@ -4,7 +4,7 @@
     <h2>🎓 Final-Year Software Engineering Student | 💻 Full-Stack Developer</h2>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=btihel-ayarir=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=btihel-ayari=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibtihel-ayari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
