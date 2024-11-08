@@ -20,10 +20,11 @@ I’m a passionate **software engineering student** from **Tunis, Tunisia**, foc
 
 ### 📈 GitHub Stats
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-ayari&show_icons=true&theme=dark" alt="Kacem's GitHub Stats" style="width: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-ayari&show_icons=true&theme=dark" alt="Ibtihel's GitHub Stats" style="width: 300px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtihel-ayari&layout=compact&theme=dark" alt="Top Languages" style="width: 230px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtihel-ayari&theme=dark" alt="Current Streak" style="width: 300px;" />
 </div>
+
 
 
 
