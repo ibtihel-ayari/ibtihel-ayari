@@ -14,7 +14,7 @@ I’m a driven **Software Engineering student** from **Tunis, Tunisia**, with a 
 ---
 
 ### 📫 Get in Touch:
-- **Email:** [ayari154ibtihel@gmail.com](mailto:ayari154ibtihel@gmail.com)
+- **Email:** [ayari154ibtihel@gmail.com](mailto:ibtihelayari88@gmail.com)
 - **LinkedIn:** [Ibtihel Ayari](https://www.linkedin.com/in/ibtihel-ayari-6848a5194/)
 
 ---
